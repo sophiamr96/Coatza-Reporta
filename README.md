@@ -68,3 +68,5 @@ El proyecto implementa:
 - Interfaces
 - Sobrecarga de métodos
 - Manejo de excepciones (try-catch)
+
+Desarrollador: Marissa Sophía Montalvo Ramírez
