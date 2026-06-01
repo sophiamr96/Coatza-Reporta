@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Archivos generados por Coatza Reporta
+CapturasMaps/
+ReportesPDF/
+Reportes.xlsx
+
+# Instaladores
+SetupCoatzaReporta/Release/
+SetupCoatzaReporta/Debug/
